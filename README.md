@@ -10,8 +10,7 @@
 
 ## Мой стек
 
-<img src='src/icons/html5.svg' width='50px'>
-<img src='src/icons/css3.svg' width='50px'>
+<img src='src/icons/html5.svg' width='50px'><img src='src/icons/css3.svg' width='50px'>
 <img src='src/icons/sass.svg' width='50px'>
 <img src='src/icons/javascript.svg' width='50px'>
 <img src='src/icons/ts.png' width='50px'>
