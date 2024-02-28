@@ -8,7 +8,16 @@
 
 <img src='src/GIF-white bg/kittens.gif' width='40px'> Стремлюсь стать частью дружной и профессиональной команды, в которой я могла бы развивать и совершенствовать свои навыки разработки.
 
-## Мой стек
+## Мои навыки
+- React, React-Hook-Form, Styled Components
+- Redux, Redux Toolkit, RTK-Query
+- HTML, CSS, SCSS, JavaScript, TypeScript
+- Webpack
+- Опыт работы с Git
+- Базовые знания бэкенд-разработки - Node.js, Express.js 
+- Адаптивная верстка по макетам из Figma
+- Опыт работы в команде
+
 
 
 
