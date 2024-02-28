@@ -8,15 +8,25 @@
 
 <img src='src/GIF-white bg/kittens.gif' width='40px'> Стремлюсь стать частью дружной и профессиональной команды, в которой я могла бы развивать и совершенствовать свои навыки разработки.
 
-## Мои навыки
-- React, React-Hook-Form, Styled Components
-- Redux, Redux Toolkit, RTK-Query
-- HTML, CSS, SCSS, JavaScript, TypeScript
-- Webpack
-- Опыт работы с Git
-- Базовые знания бэкенд-разработки - Node.js, Express.js 
-- Адаптивная верстка по макетам из Figma
-- Опыт работы в команде
+## Мой стек
+
+<img src='src/icons/html5.svg' width='50px'>
+<img src='src/icons/css3.svg' width='50px'>
+<img src='src/icons/sass.svg' width='50px'>
+<img src='src/icons/javascript.svg' width='50px'>
+<img src='src/icons/ts.png' width='50px'>
+<img src='src/icons/react.png' width='50px'>
+<img src='src/icons/bem-logo-logo-icon-png-svg.png' width='50px'>
+<img src='src/icons/git.png' width='50px'>
+<img src='src/icons/redux.png' width='50px'>
+<img src='src/icons/styled components.png' width='50px'>
+<img src='src/icons/webpack.png' width='80px'>
+
+
+
+
+
+
 
 
 
