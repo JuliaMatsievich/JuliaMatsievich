@@ -20,6 +20,7 @@
 <img src='src/icons/redux.png' width='50px'>
 <img src='src/icons/styled components.png' width='50px'>
 <img src='src/icons/webpack.png' width='80px'>
+<img src='src/icons/Vue.js_Logo_2.svg.png' width='80px'>
 
 
 
